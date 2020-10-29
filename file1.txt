@@ -4,3 +4,6 @@ We added one file inside called file1.txt
 
 Git automaticly detected the changes
 We commitid into local repository 
+
+I am making some changes for file1.txt under B20-Day1
+
