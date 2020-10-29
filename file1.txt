@@ -1,1 +1,6 @@
 This is a first day B20
+We create the git repository on the desktop called B20-Day1
+We added one file inside called file1.txt
+
+Git automaticly detected the changes
+We commitid into local repository 
